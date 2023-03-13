@@ -1,0 +1,2 @@
+echo "Hello, World"
+sort < 0-hello_world
